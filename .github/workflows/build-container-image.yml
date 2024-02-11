@@ -4,6 +4,10 @@ on:
   push:
     branches: [ "v2" ]
 
+permissions:
+  packages: write
+  contents: read
+
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
