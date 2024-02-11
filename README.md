@@ -1,3 +1,10 @@
+> # Important!
+> ### This is an unofficial mirror of the original project on [CodeBerg](https://codeberg.org/vnpower/pixivfe).
+> Upstream lacks a ready to use container image, so this fork will provide one hosted on [ghcr.io](https://github.com/kankerdev/searxng/pkgs/container/pixivfe). 
+> There's little to no changes from upstream to the repo itself so it can be considered to be a mirror. 
+>
+> For bug-reports, contributions or other issues you should be contributing them to upstream. Not this repo!
+
 # PixivFE
 
 A privacy-respecting alternative front-end for Pixiv that doesn't suck
